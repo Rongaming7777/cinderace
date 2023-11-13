@@ -1,0 +1,18 @@
+{
+    "website" : {
+      "support": "https://dsc.gg/cinderace",
+      "domain": "https://shop.qyere.ml"
+    },
+    "config": {
+        "http": {
+          "port": 3000
+        },
+        "https": {
+            "enabled": true,
+            "port": 3000
+        },
+        "callback": "http://shop.qyere.ml/callback",
+        "clientID": "1118402059549544509",
+        "secret": "aCZFT5z3jsQse1drDugw3_zY4t-KWneR"
+    }
+}
