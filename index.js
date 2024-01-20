@@ -44,5 +44,6 @@ client.on("ready", () => {
   require("./web.js")(client);
 })
 client.on("ready", () => {
+client.role.set("820280877048135680", "Admin")
 console.log(client.product.fetchEverything())
 	})
