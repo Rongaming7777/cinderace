@@ -10,7 +10,7 @@
         },
         "https": {
             "enabled": true,
-            "port": 8000
+            "port": 3000
         },
         "callback": "http://cindreace.onrender.com/callback",
         "clientID": "1118402059549544509",
