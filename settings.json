@@ -1,0 +1,19 @@
+{
+    "website" : {
+			"guildID" : "1182907364622475387",
+      "support": "https://dsc.gg/cinderace",
+      "domain": "https://cinderace.devbhakat1.repl.co/"
+    },
+    "config": {
+        "http": {
+          "port": 3001
+        },
+        "https": {
+            "enabled": true,
+            "port": 8000
+        },
+        "callback": "http://cinderace.devbhakat1.repl.co/callback",
+        "clientID": "1118402059549544509",
+        "secret": "ZzkkCnjSd9DwtdvhTH0hrKdd_aXKCyaC"
+    }
+}

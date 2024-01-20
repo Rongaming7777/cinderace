@@ -1,0 +1,43 @@
+{
+  "name": "nodej",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "cookie-parser": "^1.4.6",
+    "crypto": "^1.0.1",
+    "discord-passport": "^1.1.0",
+    "discord.js": "^13.16.0",
+    "ejs": "^3.1.9",
+    "enmap": "^5.9.8",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "masonry-layout": "^4.2.2",
+    "memorystore": "^1.6.7",
+    "moment": "^2.29.4",
+    "multer": "^1.4.5-lts.1",
+    "node-fetch": "^3.2.6",
+    "passport": "^0.6.0",
+    "passport-discord": "^0.1.4",
+    "passport-oauth2-refresh": "^2.2.0",
+    "randomstring": "^1.3.0",
+    "sharp-multer": "^0.3.2",
+    "socket.io": "^4.6.2"
+  },
+  "devDependencies": {
+    "node": "^18.18.2"
+  },
+  "description": ""
+}
